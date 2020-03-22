@@ -296,8 +296,9 @@ nav .link ul li button {
   margin-left: 50px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
+  margin-left: 300px;
 }
 
 .Location {
